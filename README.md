@@ -10,7 +10,6 @@ O **WeatherApp** é uma aplicação que exibe a previsão do tempo em tempo real
 
 ## Tecnologias Utilizadas
 - **Front-end**: Angular
-- **Requisições HTTP**: Axios
 - **API de Clima**: [OpenWeatherMap](https://openweathermap.org/)
 - **Estilização**: Bootstrap
 
